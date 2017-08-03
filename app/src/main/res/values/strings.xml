@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RITDay8IntentsExample</string>
+    <string name="button_submit_text">Submit</string>
+</resources>
