@@ -1,6 +1,5 @@
 package org.pltw.neilgrand.ritday8intentsexample;
 
-import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
@@ -25,8 +24,12 @@ public class MainActivity extends AppCompatActivity {
 //                intent.setType("text/plain");
 //                intent.putExtra(Intent.EXTRA_TEXT,"this is a msg");
 
-                Intent intent = new Intent(Intent);
-                startActivity(intent);
+//                Intent intent = new Intent(Intent);
+//                startActivity(intent);
+
+                //new work 3:36PM
+                int i = 0;
+
 
             }
         });
